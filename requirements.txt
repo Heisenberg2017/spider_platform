@@ -5,7 +5,7 @@ decorator==4.3.0
 idna==2.7
 ipython-genutils==0.2.0
 jedi==0.13.1
-lxml==4.2.5
+lxml==4.6.3
 parso==0.3.1
 pexpect==4.6.0
 pickleshare==0.7.5
